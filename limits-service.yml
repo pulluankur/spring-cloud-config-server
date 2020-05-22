@@ -1,0 +1,3 @@
+limits-service:
+  minValue: 8
+  maxValue: 888
